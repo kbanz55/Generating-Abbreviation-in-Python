@@ -1,0 +1,208 @@
+Alder
+ALDER:
+  ALD: 29
+
+Crab Apple
+CRAB APPLE:
+  CPP: 20
+
+Common Ash
+COMMON ASH:
+  CAS: 17
+
+Silver Birch
+SILVER BIRCH:
+  SCH: 17
+
+Downy Birch
+DOWNY BIRCH:
+  DCH: 17
+
+European Beech
+EUROPEAN BEECH:
+  ECH: 17
+
+Box
+BOX:
+  BOX: 27
+
+Wild Cherry
+WILD CHERRY:
+  WCH: 9
+
+Bird Cherry
+BIRD CHERRY:
+  BCH: 9
+
+Blackthorn
+BLACKTHORN:
+  BCK: 23
+
+Wych Elm
+WYCH ELM:
+  WCH: 16
+
+Smooth-leaved Elm
+SMOOTH LEAVED ELM:
+  STH: 25
+
+Common Hawthorn
+COMMON HAWTHORN:
+  CTH: 19
+
+Midland Hawthorn
+MIDLAND HAWTHORN:
+  MTH: 19
+
+Common Hazel
+COMMON HAZEL:
+  CMM: 22
+
+European Hornbeam
+EUROPEAN HORNBEAM:
+  ENB: 37
+
+European Holly
+EUROPEAN HOLLY:
+  EPE: 13
+
+Common Juniper
+COMMON JUNIPER:
+  CJU: 22
+
+Small-leaved Lime
+SMALL LEAVED LIME:
+  SLL: 38
+
+Large-leaved Lime
+LARGE LEAVED LIME:
+  LLI: 27
+
+Field Maple
+FIELD MAPLE:
+  FMA: 27
+
+Pedunculate Oak
+PEDUNCULATE OAK:
+  PNC: 34
+
+Sessile Oak
+SESSILE OAK:
+  SSS: 0
+
+Scots Pine
+SCOTS PINE:
+  STS: 19
+
+Aspen
+ASPEN:
+  ASP: 28
+
+Black Poplar
+BLACK POPLAR:
+  BCK: 17
+
+European Rowan
+EUROPEAN ROWAN:
+  EPE: 13
+
+Common Whitebeam
+COMMON WHITEBEAM:
+  CWH: 9
+
+Service Tree
+SERVICE TREE:
+  STR: 35
+
+Wild Service Tree
+WILD SERVICE TREE:
+  WLD: 23
+
+Strawberry Tree
+STRAWBERRY TREE:
+  SWB: 26
+
+Bay Willow
+BAY WILLOW:
+  BOW: 25
+
+Crack Willow
+CRACK WILLOW:
+  CCK: 5
+
+White Willow
+WHITE WILLOW:
+  WOW: 25
+
+Almond-leaved Willow
+ALMOND LEAVED WILLOW:
+  AWI: 27
+
+European Yew
+EUROPEAN YEW:
+  EYE: 37
+
+Alder Buckthorn
+ALDER BUCKTHORN:
+  ACK: 21
+
+Purging Buckthorn
+PURGING BUCKTHORN:
+  PCK: 21
+
+Elder
+ELDER:
+  EER: 5
+
+Common Dogwood
+COMMON DOGWOOD:
+  CMM: 22
+
+Rock Whitebeam
+ROCK WHITEBEAM:
+  RWH: 9
+
+Sea-buckthorn
+SEA BUCKTHORN:
+  SCK: 21
+
+Spindle
+SPINDLE:
+  SND: 33
+
+Sallow
+SALLOW:
+  SOW: 30
+
+Grey Willow
+GREY WILLOW:
+  GOW: 25
+
+Purple Willow
+PURPLE WILLOW:
+  PRP: 18
+
+Common Osier
+COMMON OSIER:
+  CMM: 22
+
+Eared Willow
+EARED WILLOW:
+  EED: 5
+
+Guelder Rose
+GUELDER ROSE:
+  GRO: 27
+
+Wayfaring tree
+WAYFARING TREE:
+  WYF: 21
+
+Common Privet
+COMMON PRIVET:
+  CPR: 17
+
+Plot's Elm
+PLOTS ELM:
+  PTS: 5
+
